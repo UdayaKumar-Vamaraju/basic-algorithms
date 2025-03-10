@@ -24,10 +24,11 @@ Algorithm:
 Step 1: Start
 Step 2: input n;
 Step 3: for i in 2 to n-1:
-Step 4: if n%i == 0;
-Step 5: print not a prime;
-Step 6 : Stop
-
+  Step 4: if n%i == 0;
+  Step 5: print not a prime;
+  Step 6 : Stop
+Step 7: else print prime
+Step 8: Stop
 
 Problem 3: Find the Maximum of Three Numbers
 
