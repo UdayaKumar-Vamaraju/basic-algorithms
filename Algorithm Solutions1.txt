@@ -26,8 +26,7 @@ Step 2: input n;
 Step 3: for i in 2 to n-1:
 Step 4: if n%i == 0;
 Step 5: print not a prime;
-Step 6: else: print prime;
-Step 7 : Stop
+Step 6 : Stop
 
 
 Problem 3: Find the Maximum of Three Numbers
